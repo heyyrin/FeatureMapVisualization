@@ -1,8 +1,11 @@
 # FeatureMapVisualization
 
 
-### tensorflow version '2.3.0'
-### tensorflow.keras version '2.4.0'
+#### tensorflow version 
+'2.3.0'
+
+#### tensorflow.keras version 
+'2.4.0'
 
 학습된 CNN 모델의 각 layer 에서 계산되는 feature map 을 시각화한다.
 
